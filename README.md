@@ -27,8 +27,6 @@
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,cpp,py,html,css,js,django,mongodb,postgres,git,github,postman,aws,azure,vscode,idea,canva,tailwind,vite,figma&perline=10&theme=light" />
 </p>
