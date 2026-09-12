@@ -27,37 +27,8 @@
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Languages & Web
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,py,html,css,js&perline=10&theme=light" />
-</p>
+## 💻 Tech Stack
 
-### 🚀 Frameworks & Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,tailwindcss,vite,api&perline=10&theme=light" />
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&perline=10&theme=light" />
-</p>
-
-### 🔧 Tools & Version Control
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,pgadmin&perline=10&theme=light" />
-</p>
-
-### ☁️ Cloud & Deployment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare&perline=10&theme=light" />
-</p>
-
-### 🎨 Design
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,canva&perline=10&theme=light" />
-</p>
-
-### 🤖 AI Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=chatgpt,githubcopilot,claude,gemini&perline=10&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,py,html,css,js,django,mongodb,postgres,git,github,postman,aws,azure,vscode,idea,canva,tailwind,vite,figma&perline=10&theme=light" />
 </p>
