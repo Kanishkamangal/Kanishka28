@@ -12,7 +12,7 @@
 | | |
 | :--- | :--- |
 | 🌍 **Based in** | India |
-| 💻 **Currently** | NeuroVoice & research projects |
+| 💻 **Currently** | GreenCode Analyzer |
 | 💡 **Specialization** | AI/ML, Full-stack Web And App development |
 | 🚀 **Impact** | Scalable solutions with optimal performance |
 | 💛 **Open to** | Collaborations & opportunities |
