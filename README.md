@@ -25,8 +25,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanishkamangal)
 
 
+
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,py,html,css,js,django,mongodb,postgres,git,github,postman,aws,azure,vscode,idea,canva,tailwind,vite,figma&perline=10&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,py,html,css,js,django,mongodb,postgres,git,github,postman,aws,azure,vscode,idea,canva,tailwind,vite,figma,chatgpt,gemini,claude&perline=12&theme=light" />
 </p>
